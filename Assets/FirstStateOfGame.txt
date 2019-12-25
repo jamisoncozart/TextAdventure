@@ -1,0 +1,7 @@
+After many hours of driving your payload of illegal data-chips across the plains, 
+you have finally arrived in New San-Fran. You are low on gas, 
+but it's likely you could make it to your destination without stopping.
+
+What do you do?
+1. Stop at the next gas station.
+2. Push onward to deliver the payload.
