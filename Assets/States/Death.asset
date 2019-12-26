@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8cb9cea296ad8b469366c03b3ec49e9, type: 3}
+  m_Name: Death
+  m_EditorClassIdentifier: 
+  storyText: 'The guards recognize the symbol on your van and immediately open fire.
+    They blow out your tires, preventing you from driving further. You struggle to
+    unharness the pistol from your waist as the seatbelt is in the way, and before
+    you can undo the clasp, a guard runs up to your window and blows your head off.
+
+
+    Game Over.
+
+
+    Play again?
+
+    1. Yes
+
+    2. No'
+  nextStates:
+  - {fileID: 11400000, guid: 17988f79f4aae8246a1a6b657e10d2f1, type: 2}

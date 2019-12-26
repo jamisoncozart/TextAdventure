@@ -10,6 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d8cb9cea296ad8b469366c03b3ec49e9, type: 3}
-  m_Name: StartingState
+  m_Name: BypassRoadblock
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'The stranger tells you of a roadblock farther down the road and how
+    to bypass the roadblock. You thank him and drive away when your gastank is filled.
+
+
+    Press 1 to continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 9a6c5830d3d7cff4fbc1e888c20cde45, type: 2}
